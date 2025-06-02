@@ -1,0 +1,14 @@
+.onclick,
+.unclick {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.onclick {
+    background-color: black;
+    color: white;
+}
+
+.unclick {
+    background-color: yellow;
+}
